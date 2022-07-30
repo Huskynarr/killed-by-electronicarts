@@ -1,0 +1,58 @@
+[
+  {
+    "dateClose": "1987",
+    "dateOpen": "2004",
+    "description": "Bullfrog Productions Limited was a British video game developer known for games like Populus, Theme Park and Dungeon Keeper.",
+    "link": "https://en.wikipedia.org/wiki/Bullfrog_Productions",
+    "name": "Bullfrog",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1985",
+    "dateOpen": "2003",
+    "description": "Westwood Studios are best known for the Command & Conquer series, one of the first and most popular real-time strategy games at the time.",
+    "link": "https://en.wikipedia.org/wiki/Westwood_Studios",
+    "name": "Westwood Studios",
+    "type": "developer"
+  },
+  {
+    "dateClose": "2010",
+    "dateOpen": "2013",
+    "description": "Victory Games is a video game company that was founded in 2010 by David J. Davis, who is also the founder of the company's successor, Victory Studios.",
+    "link": "https://en.wikipedia.org/wiki/Westwood_Studios",
+    "name": "Victory Games",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1988",
+    "dateOpen": "2015",
+    "description": "Maxis Software was known for the game Family Sim City. From this IP, the Sims game series was born.",
+    "link": "https://en.wikipedia.org/wiki/Maxis_Software",
+    "name": "Maxis Software",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1998",
+    "dateOpen": "2017",
+    "description": "Visceral Games is most known for the Dead Space IP and the Simpsons Game.",
+    "link": "https://en.wikipedia.org/wiki/Visceral_Games",
+    "name": "Visceral Games",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1995",
+    "dateOpen": "2013",
+    "description": "Medal of Honor, The Lord of the Rings, James Bond and more.",
+    "link": "https://de.wikipedia.org/wiki/Danger_Close_(Unternehmen)",
+    "name": "DreamWorks Interactive",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1998",
+    "dateOpen": "2013",
+    "description": "Known for Need for Speed: Hot Pursuit 2 and Mirrors Edge.",
+    "link": "https://en.wikipedia.org/wiki/Black_Box_Games",
+    "name": "Black Box Games",
+    "type": "developer"
+  }
+]

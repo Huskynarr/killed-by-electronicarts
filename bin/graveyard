@@ -1,0 +1,30 @@
+#!/usr/bin/env node
+const slugify = require('slugify');
+const fs = require('fs');
+
+const data = require('../graveyard.json');
+
+slugify.extend({
+  '+': '-plus',
+  '@': '-at',
+});
+
+data.map((item) => {
+  const newItem = item;
+  if (newItem.slug === undefined) {
+    newItem.slug = slugify(item.name, {
+      lower: true,
+    });
+  }
+  return newItem;
+});
+
+if (!fs.existsSync('public')) {
+  fs.mkdirSync('public');
+}
+
+fs.writeFile('public/graveyard.json', JSON.stringify(data), (err) => {
+  const { log } = console;
+  if (err) throw err;
+  log('Slugs added. JSON minified.');
+});
