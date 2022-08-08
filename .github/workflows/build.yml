@@ -24,4 +24,5 @@ jobs:
       run: |
         yarn
         yarn build
-        yarn test
+        node bin/graveyeard
+#        yarn test
