@@ -43,8 +43,8 @@ export default class Filter extends Component {
       <FilterList>
         {[
           ['All', false],
-          ['Game', 'game'],
-          ['Developer', 'developer'],
+          ['Game (IP)', 'game'],
+          ['Developer (Studio)', 'developer'],
           ['App', 'app'],
           ['Other', 'other'],
         ].map((type, index) => (
