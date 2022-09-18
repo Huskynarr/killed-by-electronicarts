@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE) [![build](https://github.com/Huskynarr/killed-by-electronicarts/actions/workflows/build.yml/badge.svg)](https://github.com/Huskynarr/killed-by-electronicarts/actions/workflows/build.yml)
 
 </div>
 
