@@ -36,15 +36,15 @@
     "dateOpen": "2017-01-01",
     "description": "Visceral Games is most known for the Dead Space IP and the Simpsons Game.",
     "link": "https://en.wikipedia.org/wiki/Visceral_Games",
-    "name": "Visceral Games",
+    "name": "Visceral Games (EA Redwood Shores)",
     "type": "developer"
   },
   {
     "dateClose": "1995-01-01",
     "dateOpen": "2013-01-01",
-    "description": "Medal of Honor, The Lord of the Rings, James Bond and more.",
+    "description": "Medal of Honor, The Lord of the Rings, James Bond and more. Later known as EA Los Angeles and Danger Close Games",
     "link": "https://de.wikipedia.org/wiki/Danger_Close_(Unternehmen)",
-    "name": "DreamWorks Interactive",
+    "name": "DreamWorks Interactive (Danger Close Games / EA Los Angeles)",
     "type": "developer"
   },
   {
@@ -53,6 +53,46 @@
     "description": "Known for Need for Speed: Hot Pursuit 2 and Mirrors Edge.",
     "link": "https://en.wikipedia.org/wiki/Black_Box_Games",
     "name": "Black Box Games",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "2013-01-01",
+    "description": "Known for Spellforce 1 & 2, under EA for BattleForge, Lord of Ultima and Command & Conquer: Tiberium Alliances.",
+    "link": "https://wikipedia.org/wiki/EA_Phenomic",
+    "name": "Phenomic Game Development (EA Phenomic)",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1995-01-01",
+    "dateOpen": "2014-05-01",
+    "description": "Known for Dark Age of Camelot.",
+    "link": "https://wikipedia.org/wiki/Mythic_Entertainment",
+    "name": "Mythic Entertainment",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1998-01-01",
+    "dateOpen": "2004-02-01",
+    "description": "Known for NBA Brand.",
+    "link": "https://wikipedia.org/wiki/NuFX",
+    "name": "NuFx",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1983-01-01",
+    "dateOpen": "2004-01-01",
+    "description": "Known for Wing Commander and for the brand origin. Since 2011, the brand name has been used for the download platform.",
+    "link": "https://wikipedia.org/wiki/Origin_Systems",
+    "name": "Origin Systems ",
+    "type": "developer"
+  },
+  {
+    "dateClose": "1998-01-01",
+    "dateOpen": "2009-01-01",
+    "description": "Known for Star Wars Battlefront and Destroy all humans.",
+    "link": "https://wikipedia.org/wiki/Pandemic_Studios",
+    "name": "Pandemic Studios",
     "type": "developer"
   }
 ]

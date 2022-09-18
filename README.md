@@ -10,6 +10,8 @@
 
 </div>
 
+[Killed by EA (Electronic Arts)](https://killedbyea.info)
+
 ## Contribute
 
 To add a product, gather the following information:
@@ -81,6 +83,10 @@ Jest is used to test the project and in particular to test the format of graveya
 Then, to create the production version:
 
     yarn build
+
+## Todo
+- PlayFish
+- Headgate Studios
 
 ## Acknowledgements
 
